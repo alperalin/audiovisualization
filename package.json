@@ -1,0 +1,25 @@
+{
+	"name": "audiovisualization",
+	"version": "1.0.0",
+	"description": "",
+	"main": "scripts.js",
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"browserslist": [
+		"last 1 chrome version"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alperalin/audiovisualization.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alperalin/audiovisualization/issues"
+	},
+	"homepage": "https://github.com/alperalin/audiovisualization#readme",
+	"devDependencies": {
+		"parcel": "^2.0.1"
+	}
+}
