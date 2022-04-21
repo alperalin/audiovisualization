@@ -1,6 +1,6 @@
 # Audio Visualization
 
-Gets microphone data from browser api and visualize it on the canvas.
+From Wes Bos's Beginner JavaScript Course. Gets microphone data from browser api and visualize it on the canvas.
 
 ## Local Server
 
